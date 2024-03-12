@@ -1,0 +1,10 @@
+/* HOME PAGE */
+.home-container {
+  text-align: center;
+}
+
+.pet-image {
+  width: 600px;
+  height: auto;
+  margin: 20px 0;
+}
